@@ -1,10 +1,10 @@
-package ru.alex.botmydubai;
+package ru.alex.bot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BotMyDubaiApplicationTests {
+class BotApplicationTests {
 
     @Test
     void contextLoads() {
